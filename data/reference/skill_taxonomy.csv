@@ -1,43 +1,85 @@
 skill_name,skill_category
 SQL,Database
 Python,Programming
+PySpark,Data Engineering
 pandas,Python Library
 NumPy,Python Library
+R,Programming
+Scala,Programming
+JavaScript,Programming
+TypeScript,Programming
+ABAP,Programming
 Tableau,BI Tool
 Power BI,BI Tool
+Qlik,BI Tool
+Qlik View,BI Tool
+Qlik Cloud,BI Tool
+Looker Studio,BI Tool
+SAP Analytics Cloud,BI Tool
+SAP Business Objects,BI Tool
+SAP BW,Data Warehouse
+SAP Datasphere,Data Warehouse
 Excel,Business Tool
+MS Office,Business Tool
+PowerPoint,Business Tool
+Google Sheets,Business Tool
 PostgreSQL,Database
 MySQL,Database
-Docker,DevOps
-Git,Version Control
-GitHub,Version Control
-AWS,Cloud
-Azure,Cloud
-GCP,Cloud
-Machine Learning,AI/ML
-scikit-learn,AI/ML
-Statistics,Analytics
-Data Cleaning,Analytics
-ETL,Data Engineering
-API,Data Engineering
-DAX,BI Tool
-Power Query,BI Tool
-Looker,BI Tool
-Qlik,BI Tool
+Oracle,Database
+SAP HANA Cloud,Database
+NoSQL,Database
+MS SQL,Database
 Snowflake,Data Warehouse
 BigQuery,Data Warehouse
 Redshift,Data Warehouse
+Data Warehouse,Data Engineering
+Data Lake,Data Engineering
+Lakehouse,Data Engineering
+Databricks,Data Engineering
+Spark,Data Engineering
+Apache Spark,Data Engineering
+ETL,Data Engineering
+ELT,Data Engineering
+Data Pipeline,Data Engineering
+Data Modeling,Data Engineering
+Data Quality,Data Engineering
+Data Governance,Data Engineering
 dbt,Data Engineering
 Airflow,Data Engineering
-Spark,Data Engineering
-Databricks,Data Engineering
+API,Data Engineering
 REST API,Data Engineering
-FastAPI,Backend
-Flask,Backend
+Docker,DevOps
+Git,Version Control
+GitHub,Version Control
+CI/CD,DevOps
+Azure DevOps,DevOps
 Linux,Operating System
+Unix,Operating System
+Bash,Operating System
+AWS,Cloud
+Azure,Cloud
+GCP,Cloud
+Microsoft Fabric,Data Platform
+Microsoft Dynamics 365,Business Platform
+Machine Learning,AI/ML
+LLM,AI/ML
+AI Agents,AI/ML
+Artificial Intelligence,AI/ML
+scikit-learn,AI/ML
+Statistics,Analytics
+Forecasting,Analytics
+Data Analysis,Analytics
+Data Cleaning,Analytics
+Data Visualization,Analytics
+Dashboard,Analytics
+Reporting,Analytics
+KPI,Analytics
+CRM,Marketing Analytics
+Klaviyo,Marketing Tool
+Alteryx,Data Tool
+RPA,Automation
+SCRUM,Project Methodology
 Jira,Project Tool
 Confluence,Project Tool
-Excel,Office Tool
-MS Office,Office Tool
 German,Language
 English,Language
