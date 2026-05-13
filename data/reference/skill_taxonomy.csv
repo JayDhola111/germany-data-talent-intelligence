@@ -20,3 +20,24 @@ Statistics,Analytics
 Data Cleaning,Analytics
 ETL,Data Engineering
 API,Data Engineering
+DAX,BI Tool
+Power Query,BI Tool
+Looker,BI Tool
+Qlik,BI Tool
+Snowflake,Data Warehouse
+BigQuery,Data Warehouse
+Redshift,Data Warehouse
+dbt,Data Engineering
+Airflow,Data Engineering
+Spark,Data Engineering
+Databricks,Data Engineering
+REST API,Data Engineering
+FastAPI,Backend
+Flask,Backend
+Linux,Operating System
+Jira,Project Tool
+Confluence,Project Tool
+Excel,Office Tool
+MS Office,Office Tool
+German,Language
+English,Language
