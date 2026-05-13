@@ -1,0 +1,22 @@
+skill_name,skill_category
+SQL,Database
+Python,Programming
+pandas,Python Library
+NumPy,Python Library
+Tableau,BI Tool
+Power BI,BI Tool
+Excel,Business Tool
+PostgreSQL,Database
+MySQL,Database
+Docker,DevOps
+Git,Version Control
+GitHub,Version Control
+AWS,Cloud
+Azure,Cloud
+GCP,Cloud
+Machine Learning,AI/ML
+scikit-learn,AI/ML
+Statistics,Analytics
+Data Cleaning,Analytics
+ETL,Data Engineering
+API,Data Engineering
